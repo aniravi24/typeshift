@@ -1,5 +1,12 @@
 # Welcome to Typefusion!
 
+> [!CAUTION]
+> **Typefusion is deprecated and no longer maintained (June 2026).** This repository is archived (read-only) and the [`typefusion`](https://www.npmjs.com/package/typefusion) npm package is deprecated. Existing versions remain installable, but there will be no further updates.
+>
+> For SQL/analytics transformations, use [dbt](https://www.getdbt.com/). For TypeScript-native workflow orchestration, see [Effect](https://effect.website/)'s workflow primitives (`@effect/workflow`, `@effect/cluster`).
+>
+> Thanks to everyone who tried it out. — [@aniravi24](https://github.com/aniravi24)
+
 <!-- TODO codecov badge -->
 
 ## Table of Contents
